@@ -1,5 +1,6 @@
-Fhirface
-=========
+# [DEPRECATED] No longer being actively developed
+
+# Fhirface
 
 ## [Live Demo](http://try-fhirplace.hospital-systems.com/fhirface/index.html#/)
 
